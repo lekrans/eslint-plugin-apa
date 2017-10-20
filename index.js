@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports.rules = {
-  'no-this': require( `${__dirname}/rules/monkey.js` )
+  'monkey': require( `${__dirname}/rules/monkey.js` )
 };
 
 module.exports.configs = {

@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-apa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a stupid eslint test to force users to prefix all variables with APA",
   "main": "index.js",
   "scripts": {
